@@ -18,4 +18,4 @@
 </p>
 
 
- <img src="Screenshot/firebase database Schema.png" alt = "FireStore Database schema.png"  />
+ <img src="Screenshot/firebase db schema.png" alt = "FireStore Database schema.png"  />
