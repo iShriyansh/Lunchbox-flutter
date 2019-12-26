@@ -1,5 +1,4 @@
 <p float="left">
-  
   <img src="Screenshot/Mainpage.png" width = "260",height = "300"/> 
   <img src="Screenshot/food detail.png" width = "260",height = "300" />
    <img src="Screenshot/pop up cart.png" width = "260",height = "300"  />
