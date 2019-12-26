@@ -1,5 +1,7 @@
 <h2> Lunch box - Food delivery app </h2>
 
+<p> Simple food delivery app where anyone can buy foods and sell .</p>
+
 <p float="left">
   <img src="Screenshot/Mainpage.png" width = "260",height = "300"/> 
   <img src="Screenshot/food detail.png" width = "260",height = "300" />
