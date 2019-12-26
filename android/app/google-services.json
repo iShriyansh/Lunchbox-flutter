@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612687177863",
+    "firebase_url": "https://e-commerce-a9006.firebaseio.com",
+    "project_id": "e-commerce-a9006",
+    "storage_bucket": "e-commerce-a9006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612687177863:android:ed9889c72f0bb0c4627022",
+        "android_client_info": {
+          "package_name": "com.example.desistore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612687177863-qigi0fd0kclo1ege6su3fcp17p11qqj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyP8UnfL3mIMTVwl9jZLvg2wWlCmoAf8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612687177863-qigi0fd0kclo1ege6su3fcp17p11qqj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
