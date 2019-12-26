@@ -1,4 +1,4 @@
-<h3> Lunxh box - Food delivery app </h3>
+<h2> Lunch box - Food delivery app </h2>
 
 <p float="left">
   <img src="Screenshot/Mainpage.png" width = "260",height = "300"/> 
